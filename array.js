@@ -1,6 +1,6 @@
 var angka = [3,4,5,6,7];
 
-console.log(angka[1]);
+console.log(angka[4]);
 
 // variabel array adalah yang bisa memuat data banyak sekaligus ataupun dapat menggabungkan data string, bolean, null secara bersamaan
 // Di varible angka diatas terdapat yg namanya index yang terdapat pada angka diatas
